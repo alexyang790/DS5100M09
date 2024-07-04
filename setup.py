@@ -1,7 +1,8 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
-setup(name="m09pack",
+setup(
+    name="testpackage",
     version="0.1",
-    packages=['bookpack'],
+    packages=find_packages(),
     install_requires=[],
 )
