@@ -1,3 +1,3 @@
-from .booklover import booklover
+from .booklover import BookLover
 
 print('import successful')

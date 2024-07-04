@@ -1,6 +1,6 @@
 from setuptools import setup
 
-setup(name='booklovermod',
+setup(name='bookloverpack',
       version='0.1',
       description='to record books for book lover',
       url='https://github.com/alexyang790/DS5100M09',
