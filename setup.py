@@ -1,8 +1,8 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name="testpackage",
+    name="booklover",
     version="0.1",
-    packages=find_packages(),
+    packages=['booklover'],
     install_requires=[],
 )
